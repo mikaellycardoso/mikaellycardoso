@@ -44,18 +44,27 @@ Sou estudante de Sistemas de Informação e Estagiária de Desenvolvimento de So
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mikaellycardoso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaellycardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaellycardoso&layout=compact&theme=dracula"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mikaellycardoso&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikaellycardoso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikaellycardoso/mikaellycardoso/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikaellycardoso/mikaellycardoso/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mikaellycardoso/mikaellycardoso/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
 
 ---
 
-## 📫 Conecte-se comigo
-<div align="center">
-  <a href="https://www.linkedin.com/in/mikaellycardoso" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+## 🌐 Conecte-se comigo
+<div align="left">
+  <a href="www.linkedin.com/in/mikaelly-cardoso" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:mikaellycardoso7@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
