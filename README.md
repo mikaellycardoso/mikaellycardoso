@@ -1,11 +1,11 @@
 # Olá, sou a Mikaelly! ✨
 ### Explorando a interseção entre Tecnologia, Dados e Economia.
 
-Sou estudante de Sistemas de Informação e Estagiária de Desenvolvimento de Software no **TRE-ES**. Meu foco é utilizar a tecnologia para criar soluções financeiras inteligentes e acessíveis.
+Sou estudante de Sistemas de Informação com foco em **Analytics Engineering** e **Economia Quantitativa**. Construo pipelines de dados robustos e soluções tecnológicas que resolvam problemas reais — desde a gestão de risco financeiro até o planejamento urbano sustentável (ESG).
 
-- 💼 Atualmente, trabalho com desenvolvimento **Java** e metodologias ágeis (Scrum/Kanban).
-- 🎓 No mundo acadêmico, exploro **Python** para Ciência de Dados e estudo o impacto econômico da tecnologia.
-- 🎯 Objetivo: Tornar-me uma Cientista de Dados especializada no mercado financeiro.
+- 💼 **O que eu faço:** Sou estagiária de Desenvolvimento no TRE-ES, construindo e mantendo sistemas com **Java** e metodologias ágeis (Scrum/Kanban) para o setor público.
+- 🚀 **O que estou aprendendo & construindo:** Aprofundando meus estudos em Análise e Engenharia de Dados através do **EcoAtlas** (pipeline de dados ESG usando Python, SQL e Power BI), além de desenvolver o app mobile **BackpackersMate** (React Native/SQLite).
+- 🎯 **Onde quero chegar:** Meu objetivo profissional é atuar como **Cientista de Dados**, unindo minha forte base em engenharia de software com modelagem estatística e inteligência de negócios para gerar valor real para as empresas.
 
 ---
 
