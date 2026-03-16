@@ -23,6 +23,8 @@ Sou estudante de Sistemas de Informação com foco em **Analytics Engineering** 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mika-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" target="_blank" alt="dbt">
+  <img align="center" alt="Mika-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 </div>
 
 ### 🎨 Front-End & Design
@@ -30,6 +32,8 @@ Sou estudante de Sistemas de Informação com foco em **Analytics Engineering** 
   <img align="center" alt="Mika-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Mika-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Mika-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img align="center" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
 </div>
 
 ### ⚙️ Ferramentas & Metodologias
@@ -40,7 +44,14 @@ Sou estudante de Sistemas de Informação com foco em **Analytics Engineering** 
 </div>
 
 ---
+## 🌟 Projetos em Destaque
 
+### 🌳 [EcoAtlas: Inteligência de Dados aplicada ao Clima Urbano](#)
+Pipeline de ponta a ponta focado em **ESG** e **Smart Cities**. Extração e cruzamento de dados meteorológicos históricos (INMET) com índices de supressão vegetal usando **Python** e **SQL**, visualizados em mapas de calor no **Power BI** para provar o impacto do planejamento urbano na temperatura.
+
+### 🎒 [BackpackersMate](#)
+Aplicativo mobile focado no ecossistema de viagens e mochileiros. Desenvolvido em **React Native / TypeScript** com **Expo**, utilizando armazenamento de dados locais ágil estruturado em **SQLite**, garantindo performance e disponibilidade offline.
+---
 ## 📈 GitHub Stats
 
 <div align="center">
