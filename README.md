@@ -51,6 +51,7 @@ Pipeline de ponta a ponta focado em **ESG** e **Smart Cities**. Extração e cru
 
 ### 🎒 [BackpackersMate](#)
 Aplicativo mobile focado no ecossistema de viagens e mochileiros. Desenvolvido em **React Native / TypeScript** com **Expo**, utilizando armazenamento de dados locais ágil estruturado em **SQLite**, garantindo performance e disponibilidade offline.
+
 ---
 ## 📈 GitHub Stats
 
