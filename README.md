@@ -1,26 +1,27 @@
-# Olá, sou a Mikaelly! ✨
-### Explorando a interseção entre Tecnologia, Dados e Economia.
+# Hi, I'm Mikaelly! ✨
+### AI & ML Researcher · Accessibility & Social Impact
 
-Sou estudante de Sistemas de Informação com foco em **Analytics Engineering** e **Economia Quantitativa**. Construo pipelines de dados robustos e soluções tecnológicas que resolvam problemas reais — desde a gestão de risco financeiro até o planejamento urbano sustentável (ESG).
+I'm a Computer Information Systems student working at the intersection of **Artificial Intelligence**, **digital accessibility**, and **public health**. I build systems that detect invisible problems — the kind that affect real people but go unmeasured.
 
-- 💼 **O que eu faço:** Sou estagiária de Desenvolvimento no TRE-ES, construindo e mantendo sistemas com **Java** e metodologias ágeis (Scrum/Kanban) para o setor público.
-- 🚀 **O que estou aprendendo & construindo:** Aprofundando meus estudos em Análise e Engenharia de Dados através do **EcoAtlas** (pipeline de dados ESG usando Python, SQL e Power BI), além de desenvolver o app mobile **BackpackersMate** (React Native/SQLite).
-- 🎯 **Onde quero chegar:** Meu objetivo profissional é atuar como **Cientista de Dados**, unindo minha forte base em engenharia de software com modelagem estatística e inteligência de negócios para gerar valor real para as empresas.
+- 💼 **Currently:** Software Development Intern @ TRE-ES (Brazil's Regional Electoral Court), building and maintaining institutional systems with **Java** and agile methodologies (Scrum/Kanban).
+- 🔬 **Research:** Leading the **A Guardiã Digital** Scientific Initiation project — an ML-based assistive system for real-time frustration detection in elderly mobile users. 
+- 🚀 **Building:** [EcoAtlas](https://github.com/mikaellycardoso/EcoAtlas) (end-to-end data science · ESG · urban climate) and [BackpackersMate](https://github.com/mikaellycardoso/backpackers-mate) (cross-platform mobile · React Native/SQLite).
 
 ---
 
-## 🛠️ Tech Stack & Ferramentas
+## 🛠️ Tech Stack & Tools
 
-### 💻 Back-End & Lógica
+### 💻 Back-End & Logic
 <div style="display: inline_block"><br>
   <img align="center" alt="Mika-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Mika-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Mika-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
-### 📊 Data & Analytics
+### 📊 Data, ML & Analytics
 <div style="display: inline_block"><br>
   <img align="center" alt="Mika-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" target="_blank">
   <img align="center" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" target="_blank">
   <img align="center" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" target="_blank" alt="dbt">
   <img align="center" alt="Mika-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
@@ -35,7 +36,7 @@ Sou estudante de Sistemas de Informação com foco em **Analytics Engineering** 
   <img align="center" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
 </div>
 
-### ⚙️ Ferramentas & Metodologias
+### ⚙️ Tools & Methodologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Mika-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" src="https://img.shields.io/badge/SCRUM-blue?style=for-the-badge&logo=scrum&logoColor=white">
@@ -43,15 +44,39 @@ Sou estudante de Sistemas de Informação com foco em **Analytics Engineering** 
 </div>
 
 ---
-## 🌟 Projetos em Destaque
 
-### 🌳 [EcoAtlas: Inteligência de Dados aplicada ao Clima Urbano](#)
-Pipeline de ponta a ponta focado em **ESG** e **Smart Cities**. Extração e cruzamento de dados meteorológicos históricos (INMET) com índices de supressão vegetal usando **Python** e **SQL**, visualizados em mapas de calor no **Power BI** para provar o impacto do planejamento urbano na temperatura.
+## 🔬 Current Research
 
-### 🎒 [BackpackersMate](#)
-Aplicativo mobile focado no ecossistema de viagens e mochileiros. Desenvolvido em **React Native / TypeScript** com **Expo**, utilizando armazenamento de dados locais ágil estruturado em **SQLite**, garantindo performance e disponibilidade offline.
+### 🛡️ [A Guardiã Digital](https://github.com/mikaellycardoso/guardia-digital)
+> ML-based assistive system for real-time frustration detection in elderly mobile users.
+
+Integrates with Android Accessibility Services to passively capture touch event data (coordinates, latency, error rate) and applies **SVM + Random Forest** classifiers to identify UX failures — without requiring any input from the user.
+
+`Python` `Scikit-learn` `Android Accessibility API` `ETL Pipeline` `Power BI`
+
+**Status:** Research in progress · Supervised by Prof. Dr. Wesley Pereira da Silva @ FAESA · Target publication: 2027
 
 ---
+
+## 🌟 Featured Projects
+
+### 🌳 [EcoAtlas: Data Intelligence Against Urban Warming](https://github.com/mikaellycardoso/EcoAtlas)
+End-to-end data science project investigating the statistical correlation between urban deforestation and temperature rise in Vitória, ES (2021–2024). Data from INMET and MapBiomas, analyzed with Python/SciPy (p-value: 0.0000 · Pearson r: 0.157), visualized in an interactive Power BI geospatial dashboard.
+
+`Python` `Pandas` `SciPy` `Seaborn` `Power BI` `DAX`
+
+### 🧠 [SafeMind: AI for Mental Health Triage](https://github.com/mikaellycardoso/safemind)
+Conceptual design and high-fidelity prototype of an AI-powered psychological triage system for adolescents. Uses NLP to classify risk levels and automate routing to the appropriate care path.
+
+`Figma` `NLP` `Object-Oriented Analysis` `Software Engineering`
+
+### 🎒 [BackpackersMate](https://github.com/mikaellycardoso/backpackers-mate)
+Cross-platform B2C mobile app centralizing logistics, itineraries and offline tools for backpackers. Built with React Native/TypeScript and local SQLite storage.
+
+`React Native` `TypeScript` `Expo` `SQLite`
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -67,15 +92,18 @@ Aplicativo mobile focado no ecossistema de viagens e mochileiros. Desenvolvido e
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mikaellycardoso/mikaellycardoso/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
-
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect
 <div align="left">
-  <a href="www.linkedin.com/in/mikaelly-cardoso" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/mikaelly-cardoso" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="http://lattes.cnpq.br/6340388262242435" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge" alt="Lattes" />
+  </a>
+  <a href="https://mikaellycardoso.github.io/mikaelly-cardoso.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:mikaellycardosodev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
